@@ -1,0 +1,422 @@
+{
+   {
+      "Kirill Semenikhin",
+      "Director",
+      "",
+      43,
+      0
+   },
+   {
+      "Tormasov Alexander Gennadievich",
+      "Rector",
+      "",
+      52,
+      0
+   },
+   {
+      "Ivashkevich Maxim Evgenievich",
+      "Admin",
+      "",
+      47,
+      0
+   },
+   {
+      "Masyagin Sergey Vladimirovich",
+      "Admin",
+      "",
+      39,
+      0
+   },
+   {
+      "Bariev Iskander Ilgizarovich",
+      "Admin",
+      "",
+      36,
+      0
+   },
+   {
+      "Khodyreva Elena Anatolyevna",
+      "Admin",
+      "",
+      40,
+      0
+   },
+   {
+      "Samatova Aliya Mirkhatovna",
+      "Admin",
+      "",
+      34,
+      0
+   },
+   {
+      "Khaziev Rinat Masnavievich",
+      "Admin",
+      "",
+      56,
+      0
+   },
+   {
+      "Andrey Evgenievich Alekseenko",
+      "Student",
+      "Mathematical Analysis",
+      22,
+      4
+   },
+   {
+      "Aslam Khamna",
+      "Researcher",
+      "Introduction to Artificial Intelligence; Information Theory",
+      20,
+      2
+   },
+   {
+      "Afanasiev Ilya Mikhailovich",
+      "Associate Professor",
+      "Sensors in robotics: methods of obtaining and processing information; Intel lectual mobile robotics",
+      23,
+      9
+   },
+   {
+      "Ahmad Muhammad",
+      "Researcher",
+      "Algorithms and Data Structures",
+      24,
+      6
+   },
+   {
+      "Batul Kanwal",
+      "Student",
+      "Security of Systems and Networks;",
+      25,
+      5
+   },
+   {
+      "Brown Joseph Alexander",
+      "Assistant Professor",
+      "Introduction to Artificial Intelligence; Advanced algorithms for the development of artificial intelligence systems",
+      28,
+      8
+   },
+   {
+      "Brian Anthony Philip",
+      "Student",
+      "English in Research and Development I",
+      32,
+      11
+   },
+   {
+      "Bobrov Evgeniy Sergeevich",
+      "Researcher",
+      "Modern programming paradigms; Methods: we decide what to develop",
+      28,
+      0
+   },
+   {
+      "Vasilakos Athanasios",
+      "Professor",
+      "Cybercrime and Forensic Science",
+      35,
+      35
+   },
+   {
+      "Gabdullin Aydar Rinatovich",
+      "Junior Researcher",
+      "Models of Software Systems",
+      23,
+      2
+   },
+   {
+      "De Carvalo Daniel",
+      "Senior Lecturer",
+      "Introduction to Programming I",
+      32,
+      8
+   },
+   {
+      "Zuev Evgeniy Aleksandrovich",
+      "Associate Professor",
+      "Computer Architecture; Modern programming paradigms; Introduction to Compiler Development; Modern C ++: concepts, language features and innovations",
+      40,
+      14
+   },
+   {
+      "Ivanov Vladimir Vladimirovich",
+      "Researcher",
+      "Discrete mathematics / logic;",
+      30,
+      9
+   },
+   {
+      "Ivanov Mikhail Alexandrovich",
+      "Engineer-researcher",
+      "System of identification and modeling",
+      25,
+      0
+   },
+   {
+      "Catano Collazos Nestor",
+      "Professor",
+      "Models of software systems; Using formal methods for developing applications for Android OS",
+      31,
+      9
+   },
+   {
+      "Kostenko Konstantin Vladimirovich",
+      "Junior Researcher",
+      "Intelligent Mobile Robotics",
+      26,
+      1
+   },
+   {
+      "Klimchik Alexander Sergeevich",
+      "Associate Professor",
+      "Modeling and analysis of robotic manipulators  n  t  t Data structures and algorithms  n  t  t Discrete mathematics and logic",
+      29,
+      4
+   },
+   {
+      "Li Juyong",
+      "Associate Professor",
+      "Information Retrieval",
+      26,
+      8
+   },
+   {
+      "Li Juyong",
+      "Associate Professor",
+      "Introduction to Compiler Development",
+      27,
+      8
+   },
+   {
+      "Stanislav Litvinov",
+      "Student",
+      "Operating Systems and Networks; Software Development Management",
+      20,
+      2
+   },
+   {
+      "Makhmutov Munir Talgatovich",
+      "Research Engineer",
+      "Introduction to Artificial Intelligence ; Information Theory",
+      24,
+      2
+   },
+   {
+      "Maruf Rabab",
+      "Student",
+      "English for Academic Purposes I",
+      32,
+      14
+   },
+   {
+      "Mazzara Manuel",
+      "Assistant Professor",
+      "Database Modeling",
+      31,
+      7
+   },
+   {
+      "Messina Angelo",
+      "Professor",
+      "Using Agile Development Methodologies for Highly Reliable and Critical Systems; Software Architecture",
+      40,
+      8
+   },
+   {
+      "Mingazov Marat Rinatovich",
+      "Student",
+      "Systems Theory",
+      25,
+      3
+   },
+   {
+      "Mirgalimova Ruzilya Zufarovna",
+      "Junior Researcher",
+      "Algorithms and Data Structures; Discrete Mathematics / logic;",
+      23,
+      0
+   },
+   {
+      "Mohammed Vazid",
+      "Senior Researcher",
+      "Operating systems and networks;",
+      21,
+      1
+   },
+   {
+      "Mustafin Ruslan Sergeevich",
+      "Student",
+      "Database modeling; Introduction to the individual software development process",
+      20,
+      2
+   },
+   {
+      "Alexander Vladimirovich Naumchev",
+      "Senior Researcher",
+      "Introduction to Programming I",
+      27,
+      3
+   },
+   {
+      "Pervushov Artem Vladimirovich",
+      "Student",
+      "Software developer using Java Enterprise Edition technologies; Developer of corporate mobile applications based on Android",
+      21,
+      0
+   },
+   {
+      "Puzankova Anastasia Alexandrovna",
+      "Student",
+      "Mathematical analysis",
+      19,
+      1
+   },
+   {
+      "Reznik Alexey Sergeevich",
+      "Junior Researcher",
+      "Operating Systems and Networks",
+      20,
+      2
+   },
+   {
+      "Rivera Zuniga Victor Alfonso",
+      "Associate Professor",
+      "Object Oriented Programming  n  t  t Introduction to Programming I",
+      28,
+      6
+   },
+   {
+      "Rogers Alan Edwin",
+      "Professor",
+      "Cloud Computing; Project Management; Software Development Management",
+      20,
+      20
+   },
+   {
+      "Romanov Vitaly Anatolyevich",
+      "Engineer-researcher",
+      "Modern programming paradigms",
+      20,
+      2
+   },
+   {
+      "Kirill Sergeevich Saltanov",
+      "Assistant",
+      "Security of systems and networks; Distributed systems; Management of deployment of large-scale distributed systems; Information protection ; Cybercrime and forensics",
+      22,
+      1
+   },
+   {
+      "Samatova Aliya Mirkhatovna",
+      "Student",
+      "Career development",
+      31,
+      4
+   },
+   {
+      "Safina Larisa Raisovna",
+      "Student",
+      "Introduction to the individual software development process; Database Modeling",
+      24,
+      2
+   },
+   {
+      "Silitti Alberto",
+      "Professor",
+      "Information Theory; Systems theory; Methods: we decide what to develop",
+      31,
+      13
+   },
+   {
+      "Siraziev Mars Tabrisovich",
+      "Student",
+      "Physical culture",
+      31,
+      2
+   },
+   {
+      "Stoyanova May Yordanova",
+      "Student",
+      "English for Academic Purposes I",
+      30,
+      12
+   },
+   {
+      "Suchci Giancarlo",
+      "Professor",
+      "Operating Systems and Networks; Statistics;",
+      24,
+      24
+   },
+   {
+      "Urysov Konstantin Nikolaevich",
+      "Student",
+      "Cloud Computing; Distributed Systems",
+      27,
+      2
+   },
+   {
+      "Fahim Muhammad",
+      "Associate Professor",
+      "Design of Human-Machine Interaction Systems",
+      25,
+      3
+   },
+   {
+      "Khazeev Mansur Rifovich",
+      "Junior Researcher",
+      "Introduction to Programming 1",
+      23,
+      2
+   },
+   {
+      "Khan Adil Mehmud",
+      "Associate Professor",
+      "Algorithms and Data Structures; Machine learning",
+      29,
+      6
+   },
+   {
+      "Khasanov Danila Rafaelevich",
+      "Student",
+      "Physical culture",
+      26,
+      3
+   },
+   {
+      "Khomyakov Ilya Antonovich",
+      "Student",
+      "Algorithms and data structures; Discrete mathematics / logic;",
+      21,
+      0
+   },
+   {
+      "Kholodov Yaroslav Alexandrovich",
+      "Associate Professor",
+      "Mathematical Analysis",
+      36,
+      16
+   },
+   {
+      "Hussein Rashid",
+      "Associate Professor",
+      "An Introduction to System and Network Engineering; Security of systems and networks",
+      28,
+      9
+   },
+   {
+      "Khusainov Ramil Rasimovich",
+      "Researcher",
+      "Design of human-machine interaction systems",
+      27,
+      5
+   },
+   {
+      "Shilov Nikolay Vyacheslavovich",
+      "Associate Professor",
+      "Discrete Mathematics / Logic; Digital Signal Processing",
+      33,
+      4
+   }
+}
