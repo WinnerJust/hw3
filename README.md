@@ -130,7 +130,7 @@ Activates emergency mode of the system
 
 ### deactivateEmergency()
 
-Activates emergency mode of the system
+Deactivates emergency mode of the system
 
 ### checkAccess(user, room)
 
